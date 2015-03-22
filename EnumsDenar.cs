@@ -167,6 +167,7 @@ namespace Denar
             public static string Mobitel { get { return "22,95"; } }
             public static string SluzbaMalicaAdacta { get { return "4,5"; } }
             public static string PodjetjeDohodnina { get { return "186,25"; } }
+
         }
         #endregion
     }
