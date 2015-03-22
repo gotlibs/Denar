@@ -162,11 +162,11 @@ namespace Denar
                     return (ar);
                 }
             }
-            public static string PodjetjePrispevki { get { return "223,54"; } }
-            public static string Zavarovanje { get { return "28,54"; } }
-            public static string Mobitel { get { return "20,13"; } }
+            public static string PodjetjePrispevki { get { return "230,28"; } }
+            public static string Zavarovanje { get { return "27,51"; } }
+            public static string Mobitel { get { return "22,95"; } }
             public static string SluzbaMalicaAdacta { get { return "4,5"; } }
-            public static string PodjetjeDohodnina { get { return "150"; } }
+            public static string PodjetjeDohodnina { get { return "186,25"; } }
         }
         #endregion
     }
